@@ -1,0 +1,25 @@
+Voici quelques-unes des méthodes les plus utiles dans la bibliothèque Matplotlib :
+
+plot() : Permet de tracer une courbe ou un graphique en deux dimensions.
+
+scatter() : Permet de tracer des points sur un graphique en deux dimensions.
+
+bar() : Permet de tracer un histogramme ou un diagramme en bâtons en deux dimensions.
+
+pie() : Permet de tracer un diagramme circulaire.
+
+hist() : Permet de tracer un histogramme.
+
+imshow() : Permet d'afficher une image.
+
+subplot() : Permet de créer des sous-graphiques.
+
+xlabel() et ylabel() : Permettent de définir les titres des axes des graphiques.
+
+legend() : Permet de créer une légende pour le graphique.
+
+title() : Permet de donner un titre au graphique.
+
+savefig() : Permet de sauvegarder le graphique dans un fichier.
+
+Ces méthodes sont très utiles pour créer des visualisations de données claires et efficaces.
