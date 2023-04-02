@@ -1,0 +1,18 @@
+Directive by ChatGPT:
+
+Exercice:
+
+Le but de cet exercice est de tracer la courbe de la fonction $f(x) = x^3 - 4x^2 + 3x + 1$ sur l'intervalle $[-2, 4]$.
+
+1.Créez une liste de 100 valeurs équidistantes sur l'intervalle $[-2, 4]$ pour $x$.
+2.Calculez les valeurs correspondantes de $f(x)$ et stockez-les dans une autre liste.
+3.Tracez la courbe de la fonction en utilisant la méthode plot de la librairie matplotlib.
+4.Ajoutez des étiquettes pour l'axe des x, l'axe des y et le titre du graphique.
+5.Ajoutez une grille sur le graphique.
+6.Voici la consigne pour la mise en page avec les markdown et tout les autres éléments:
+
+1.Ajoutez une cellule Markdown pour donner un titre à l'exercice et énoncer l'objectif de l'exercice.
+2.Ajoutez une cellule code pour résoudre l'exercice. Commentez chaque étape pour expliquer ce qui se passe.
+3.Ajoutez une cellule Markdown pour expliquer la signification de chaque ligne de code.
+4.Ajoutez une cellule Markdown pour donner vos observations et conclusions sur le tracé de la courbe.
+5.Si vous le souhaitez, vous pouvez ajouter des cellules Markdown supplémentaires pour personnaliser la présentation de votre notebook (par exemple, ajouter des images, des liens hypertexte, etc.).

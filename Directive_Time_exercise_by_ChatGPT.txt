@@ -1,0 +1,8 @@
+Voici les étapes pour tracer un graphique en minute et en seconde avec le module matplotlib:
+
+Importer la librairie matplotlib.pyplot
+Créer deux listes de valeurs x et y (temps et valeurs à tracer)
+Utiliser la méthode plot de la librairie pour créer le graphique en spécifiant les listes x et y
+Configurer les axes avec les méthodes xlabel et ylabel pour spécifier les noms des axes et xlim/ylim pour définir les limites des axes
+Utiliser la méthode gca() pour obtenir les axes courants et utiliser la méthode xaxis pour définir le format des graduations pour l'axe x
+Afficher le graphique avec la méthode show() de la librairie
